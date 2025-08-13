@@ -36,7 +36,7 @@ The dataset contains demographic and behavioral features such as:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/cervical-cancer-prediction.git
+git clone https://github.com/chandiniAgowda/Cervical-Cancer-Prediction.git
 cd cervical-cancer-prediction/src
 ```
 
