@@ -11,7 +11,7 @@ A machine learning-based web application that predicts the risk of cervical canc
 
 ## Tech Stack
 - **Backend:** Python, Flask
-- **Frontend:** HTML, CSS, JavaScript
+- **Frontend:** HTML, CSS
 - **Machine Learning:** XGBoost, Scikit-learn, Pandas, NumPy
 - **Visualization:** Matplotlib, Seaborn
 
